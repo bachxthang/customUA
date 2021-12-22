@@ -1,0 +1,523 @@
+Mozilla/5.0 (Windows NT 10.0; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; rv:9001.0) Gecko/20100101 Firefox/9001.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/90.1a
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Android 10; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Android 11; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.2; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Android 5.1.1; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Android 9; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (X11; Linux x86_64:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Android 6.0; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.1; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Android 7.0; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Android 5.1; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Android 8.1.0; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Android 8.0.0; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.3; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 5.1; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Android 7.1.1; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Android 6.0.1; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.14; rv:90.8) Gecko/20100101 Firefox/90.8
+Mozilla/5.0 (X11; Linux x86_64; rv:90.9) Gecko/20100101 Firefox/90.9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; aarch64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:77.0) Gecko/20190101 Firefox/90.0
+Mozilla/5.0 (X11; TrueOS; FreeBSD amd64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Android 7.1.2; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (X11; Linux i586; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Android 4.4; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.15; rv:90.2) Gecko/20100101 Firefox/90.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; FreeBSD amd64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 knfsL7Yx-26 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 IAV/FF90
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; Ubuntu; Linux aarch64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Android 7.1; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.1; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14.3; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 fKmkQnAE-24 Firefox/90.0
+Mozilla/5.0 (Android 12; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (X11; OpenBSD amd64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Android 5.0.2; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.2; rv:90.0) Gecko/20100101 Firefox/90.0 5
+Mozilla/5.0 (X11; Ubuntu; Linux armv7l; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Android 11; Mobile; rv:68.0) Gecko/68.0 Firefox/90.0
+Mozilla/5.0 (Android 5.0; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.2; rv:90.0) Gecko/20100101 Firefox/90.0 anonymized by Abelssoft 16809977
+Mozilla/5.0 (Windows NT 6.2; rv:90.0) Gecko/20100101 Firefox/90.0 5
+Mozilla/5.0 (Windows NT 6.1; rv:90.0) Gecko/20100101 null Firefox/90.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11.5; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 LuldrLXf-9 Firefox/90.0
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; rv:90.0) Gecko/20100101 Firefox/90.0 7
+Mozilla/5.0 (Windows NT 10.0; rv:90.0) Gecko/20100101 Firefox/90.0 
+Mozilla/5.0 (X11; FreeBSD i386; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 5.1; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0; Tesseract/1.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:90.0; Tesseract/1.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 abaussart/MHTJ9412
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 0sSwIttX-27 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; rv:90.0) Gecko/20100101 Firefox/90.0 5
+Mozilla/5.0 (Windows NT 10.0; rv:90.0) Gecko/20100101 Firefox/90.0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 null Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; rv:90.0) Gecko/20100101 Firefox/90.0 
+Mozilla/5.0 (Windows NT 10.0; rv:90.0) Gecko/20100101 Firefox/90.0 0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11.1; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; Ubuntu; Linux armv7l; rv:90.0) Gecko/20100101 Firefox/90.0 nb:
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:39.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; Linux x86_64; rv:90.2) Gecko/20100101 Firefox/90.2
+Mozilla/5.0 (Windows NT 10.0; rv:90.0) Gecko/20100101 Firefox/90.0 
+Mozilla/5.0 (X11; Linux aarch64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; WOW64; rv:41.0) Gecko/20100101 Firefox/90.0.2 (x64 de)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.16; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; NetBSD amd64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 v0xZQufE-36 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 spider
+Mozilla/5.0 (Windows NT 10.0; rv:90.0) Gecko/20100101 Firefox/90.0 3
+Mozilla/5.0 (Windows NT 6.2; rv:90.0) Gecko/20100101 Firefox/90.0 
+Mozilla/5.0 (Windows NT 6.2; rv:90.0) Gecko/20100101 Firefox/90.0 
+Mozilla/5.0 (Android 8.1.0; Tablet; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Android 8.0; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:39.0) Gecko/20100101 Firefox/90.0 NetHelper70
+Mozilla/5.0 (Windows NT 6.0; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0;secssobrowser) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; blackPanther OS; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Android 10.0; Mobile; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:90.0) Gecko/20190101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; FreeBSD amd64; rv:68.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; rv:90.0 ) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:64.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.11; rv:90.8) Gecko/20100101 Firefox/90.8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; WOW64; rv:41.0) Gecko/20100101 Firefox/90.0.2 (x64 de)
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:90.0) Gecko/20120101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; rv:90.0) Gecko/20100101 Firefox/90.0 0
+Mozilla/5.0 (Android 11; Mobile; SM-G998W; rv:90.0) Gecko/90.0 Firefox/90.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 ESR
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (Windows NT 5.1 rv:36.0) Gecko/20100101 Firefox/9164
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:44.0) Gecko/20100101 Firefox/9101
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:81.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.1; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Android 11; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Android 9; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Android 10; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Android 8.1.0; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.12; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Linux x86_64; rv:91.0.4472.101) Gecko/20100101 Firefox/91.0.4472.101
+Mozilla/5.0 (X11; Linux x86_64:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Android 8.0.0; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Android 5.1.1; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.2; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Linux i686; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.3; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.1; rv:91.0) Gecko/20171102 Firefox/91.0
+Mozilla/5.0 (Android 12; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Android 7.1.2; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Android 7.0; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Android 10.0; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:91.0) Gecko/20211107 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0 NF-SAP
+Mozilla/5.0 (X11; FreeBSD amd64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 WTqwX5b4-52 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 X5h4EGtk-23 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0;secssobrowser) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Android 11; Mobile; LG-M255; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Android 7.1.1; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Ubuntu; Linux aarch64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Ubuntu; Linux armv7l; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Android 5.1; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 5rnOsif4-52 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 WK0q7vCA-40 Firefox/91.0
+Mozilla/5.0 (Android 6.0.1; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 NIU49asm-16 Firefox/91.0
+Mozilla/5.0 (Android 6.0; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.2; rv:91.0) Gecko/20100101 Firefox/91.0 6
+Mozilla/5.0 (Windows NT 10.0; Win32; x86) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:91.0) Gecko/20100101 uZMU3AKk-0 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.1; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.2; rv:91.0) Gecko/20100101 Firefox/91.0 
+Mozilla/5.0 (Windows NT 6.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 ANkU8fW9-17 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0) Gecko/20100101 null Firefox/91.0
+Mozilla/5.0 (Windows NT 6.0; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; OpenBSD amd64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Android 5.0; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Android 11; Mobile; rv:68.0) Gecko/68.0 Firefox/91.0
+Mozilla/5.0 (X11; Linux armv7l; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11.1; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:91.0) Gecko/20100101 Firefox/91.0 WebExplorer/15.0.4940.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 fn7b1AeR-52 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0 FS
+Mozilla/5.0 (X11; Linux aarch64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:91.0; Tesseract/1.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Android 5.0.2; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.1; rv:68.8) Gecko/20100101 Firefox/91.0.1
+Mozilla/5.0 (Windows NT 5.1; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0 7
+Mozilla/5.0 (Android 4.4; Mobile; rv:91.0) Gecko/91.0 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0 
+Mozilla/5.0 (X11; Linux i686; rv:91) Gecko/20100101 Firefox/91.0.2
+Mozilla/5.0 (Linux; Android 9; SM-G960F) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 null Firefox/91.0
+Mozilla/5.0 (Windows NT 6.2; rv:91.0) Gecko/20100101 Firefox/91.0 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 92BaQziU-18 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0 0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 M35Gm3Hd-48 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:91.0) Gecko/20100101 ljUZThI8-22 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 HXwOIZKN-46 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 rrFJF8wu-32 Firefox/91.0
+Mozilla/5.0 (Windows NT 5.1; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 yfjAh1oS-35 Firefox/91.0
+Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0 bugcrowd
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0 IAV/FF91
+Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:91.0) Gecko/20100101 Firefox/91.0 WebExplorer/15.0.4932.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 0cCYwhbE-25 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0 7
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; WOW64; rv:41.0) Gecko/20100101 Firefox/91.0.1 (x64 en-US)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 JsvpquqF-40 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0 1
+Mozilla/5.0 (X11; Fedora; Linux aarch64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0 dntapi
+Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0 3
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.2; rv:91.0) Gecko/20100101 Firefox/91.0 
+Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 6.1; rv:91.0) Gecko/20100101 Firefox/91.0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.111
+Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20171102 Firefox/91.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11.5; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/91A8
+Mozilla/5.0 (X11; NetBSD amd64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:91.2) Gecko/20100101 Firefox/91.2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11.6; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:91.0.2) Gecko/20100101 Firefox/91.0.2
+Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0 
+Mozilla/5.0 (Windows NT 10.0; x64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.0) Gecko/20100101 Firefox/91.0, XFF:54.240.197.226
+Mozilla/5.0 (Windows NT 10.0; rv:91.2.0) Gecko/20100101 Firefox/91.2.0
+Mozilla/5.0 (Windows NT 6.2; rv:91.0) Gecko/20100101 Firefox/91.0 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2; rv:91.0esr) Gecko/20100101 Firefox/91.0esr
+Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20070609 Firefox/91.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; FA2000; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Linux i586; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (Android 5.0.1; Mobile; rv:68.0) Gecko/68.0 Firefox/92FD
+Mozilla/5.0 (X11; U; Linux x86_64; pt-BR; rv:1.9b5) Gecko/2008041515 Firefox/92.0.1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (X11; SunOS sun4u; rv:92.9) Gecko/20100101 Firefox/92.9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:48.0) Gecko/20100101 Firefox/927A
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:40.0) Gecko/20100101 Firefox/9263
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.1; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Android 11; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Android 9; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (Android 10; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (Android 7.1.1; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (Android 8.0.0; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (Android 8.1.0; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (Android 6.0.1; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.3; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Android 7.1.2; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Android 7.0; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (Android 10; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (Android 6.0; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:84.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (X11; Linux i686; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.2; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Android 12; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (X11; FreeBSD amd64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Android 5.1.1; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (X11; Linux i586; rv:90.2) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (X11; Ubuntu; Linux aarch64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; rv:92.0 ) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14.3; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; rv:92.0 ) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 null Firefox/92.0
+Mozilla/5.0 (Windows NT 5.1; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (X11; FreeBSD i386; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Android 5.0.2; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11.1; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.2; rv:92.0) Gecko/20100101 Firefox/92.0 1
+Mozilla/5.0 (Android 4.4; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (X11; Ubuntu; Linux armv7l; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (X11; Linux aarch64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0 IAV/FF92
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 3GhvwnwL-53 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; WOW64; rv:41.0) Gecko/20100101 Firefox/92.0 (x64 de)
+Mozilla/5.0 (Windows NT 6.1; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Android 5.0.1; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; rv:92.0 ) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5 (Erg\xE4nzendes Update)) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.1; rv:92.0 ) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 pVx6XIAE-55 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 N1G38lOU-18 Firefox/92.0
+Mozilla/5.0 (Android 5.1; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (X11; Linux ; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.3; rv:92.0) Gecko/20100101 Firefox/92.0 
+Mozilla/5.0 (X11; Linux x86_64:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:39.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0-bugbounty
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.2; rv:92.0.1) Gecko/20100101 Firefox/92.0.1 1
+Mozilla/5.0 (Windows NT 6.2; rv:92.0.1) Gecko/20100101 Firefox/92.0.1 
+Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:92.0) Gecko/20100101 Firefox/92.0 WebExplorer/15.0.4982.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0;secssobrowser) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; rv:92.0 ) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 CPLUBL6J-28 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; Win32; x32; rv:88.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 10.0; rv:92.0) Gecko/20100101 Firefox/92.0 
+Mozilla/5.0 (Android 5.0; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.0; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:92.0.1) Gecko/20100101 Firefox/92.0.1
+Mozilla/5.0 (Android 10.0; Mobile; rv:92.0) Gecko/92.0 Firefox/92.0
+Mozilla/5.0 (X11; OpenBSD amd64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:90.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11.6; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.2; rv:92.0) Gecko/20100101 Firefox/92.0 7
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:56.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:92.0) Gecko/20070414 Firefox/92.0
+Mozilla/5.0 (X11; U; Linux x86_64) Gecko/20111111 Firefox/92.0
+Mozilla/5.0 (X11; U; Linux x86_64) Gecko/20012419 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.2; rv:92.0) Gecko/20100101 Firefox/92.0 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:91.2) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (X11; Linux x86_64; en-GB) Gecko/20111209 Firefox/92.0esr
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:92.0) Gecko/20000101 Firefox/92.0
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:40.0) Gecko/20100101 Firefox/9300
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:39.0; TE/3.0) Gecko/20100101 Firefox/93FE
+Mozilla/5.0 (X11; Linux x86_64; rv:61.0) Gecko/20100101 Firefox/93E2
+Mozilla/5.0 (Windows NT 10.0; rv:60.0) Gecko/20100101 Firefox/932E20
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:49.0) Gecko/20100101 Firefox/939B
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (X11; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Android 10; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Android 9; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Android 11; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Android 8.1.0; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Android 6.0.1; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Android 5.1.1; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Android 8.0.0; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Android 7.0; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Android 7.1.1; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Android 7.1.2; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Windows NT 6.1; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Android 6.0; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Android 12; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Linux; U; Mobile; Android 12; Tablet; x64; rv:93.0) Gecko/93.0 Firefox/93.0 Safari/605.1.15
+Mozilla/5.0 (Windows NT 6.3; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (X11; Ubuntu; Linux aarch64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 6.2; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (X11; Linux i686; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Android 5.0.2; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (X11; FreeBSD amd64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (X11; OpenBSD amd64; rv:91.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 6.1; rv:93.0) Gecko/20100101 Firefox/93.0, XFF:79.10.142.101
+Mozilla/5.0 (Windows NT 6.0; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (X11; Ubuntu; Linux armv7l; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; rv:93.0) Gecko Firefox/93.0
+Mozilla/5.0 (Windows NT 6.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (X11; OpenBSD amd64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 5.1; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:93.0) Gecko/20100101 Firefox/93.0 WebExplorer/15.0.4989.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; rv:93.0 ) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Android 12; Mobile; LG-M255; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; rv:78.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; Win32; x32; rv:88.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Android 5.0.1; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; rv:93.0 ) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; rv:93.0 ) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:93.0) Gecko/20100101 UQR96xlu-44 Firefox/93.0
+Mozilla/5.0 (X11; Linux aarch64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; rv:93.0 ) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 6.1; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; rv:93.0 ) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (X11; FreeBSD amd64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; rv:93.0 ) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; rv:93.0 ) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (X11; Linux x86_64:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0;x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; rv:93.0 ) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Android 8.1.0; Tablet; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Android 5.1; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; rv:93.0 ) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Android 5.0; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0, XFF:85.76.138.37
+Mozilla/5.0 (Windows NT 6.2; rv:93.0) Gecko/20100101 Firefox/93.0 
+Mozilla/5.0 (Android 6.1; Mobile; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0, XFF:46.126.204.65
+Mozilla/5.0 (X11; Linux x86_64; rv:93.0) Gecko/20100101 Firefox/93.0 Replicant
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0, XFF:94.114.124.54
+Firefox/93.0 (x64 de); 4
+Mozilla/5.0 (Windows NT 10.0; rv:93.0 ) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0 footscan
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0, XFF:84.189.176.214
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0, XFF:98.37.19.227
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0, XFF:91.158.136.8
+Mozilla/5.0 (Windows NT 10.0; rv:93.0 ) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0, XFF:151.41.215.240
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.3
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Android 11; Tablet; rv:93.0) Gecko/93.0 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 null Firefox/93.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:93.0) Gecko/20100101 Firefox/93.0, XFF:195.32.75.152
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; WOW64; rv:41.0) Gecko/20100101 Firefox/93.0 (x64 de)
+Mozilla/5.0 (X11; Linux x86_64; rv:93.0) Gecko/20190101 Firefox/93.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.1
+Mozilla/5.0 (Linux kernel 5.12; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (X11; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Android 10; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Android 11; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (Android 9; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (Android 8.1.0; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Android 6.0; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (Android 5.1.1; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (Windows NT 6.1; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (X11; Linux i686; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Android 8.0.0; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (Android 7.0; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (Windows NT 10.0; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 6.3; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 6.2; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Android 7.1.1; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Android 12; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (Android 6.0.1; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (X11; FreeBSD amd64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Android 5.1; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 null Firefox/94.0
+Mozilla/5.0 (Windows NT 6.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (X11; Linux aarch64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Android 12; Mobile; rv:68.0) Gecko/68.0 Firefox/94.0
+Mozilla/5.0 (X11; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Android 10.0; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (X11; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0, XFF:213.196.213.40
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0, XFF:62.11.3.173
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/94.0, XFF:93.66.16.147
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.7
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (X11; Ubuntu; Linux aarch64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 10.0; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Android 7.1.2; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 6.1; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Android 6.1; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (X11; Linux x86_64:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 10.0; WOW64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 WebExplorer/15.0.4990.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 73AHzQ1Z-4 Firefox/94.0
+Mozilla/5.0 (X11; OpenBSD amd64; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 6.2; rv:94.0.1) Gecko/20100101 Firefox/94.0.1 5
+Mozilla/5.0 (Windows NT 5.1; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:58.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Android 4.4; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:94.0) Gecko/20100101 Firefox/94.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0, XFF:151.84.126.163
+Mozilla/5.0 (Android 5.0.2; Mobile; rv:94.0) Gecko/94.0 Firefox/94.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0.2) Gecko/20100101 Firefox/94.0.2
